@@ -1,3 +1,5 @@
+package arrays;
+
 public class HalfDolars {
     public static void main(String[] args) {
         int[] denver = {1_700_000, 4_600_000, 2_100_000}; // utworzy się tablica o size 3

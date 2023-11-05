@@ -1,3 +1,5 @@
+package arrays;
+
 import javax.imageio.metadata.IIOMetadataFormatImpl;
 
 public class Array3DPrinter {

@@ -1,3 +1,5 @@
+package arrays;
+
 import java.awt.*;
 
 public class Arrays {
