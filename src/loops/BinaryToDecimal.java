@@ -1,4 +1,4 @@
-package arrays;
+package loops;
 
 public class BinaryToDecimal {
 

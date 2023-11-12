@@ -1,3 +1,5 @@
+package arrays;
+
 public class MostPopularNumber {
     public static void main(String[] args) {
 
